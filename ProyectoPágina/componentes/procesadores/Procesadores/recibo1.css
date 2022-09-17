@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    background-color: #2688DF;
+}
+#container{
+    width: 800px;
+    margin: 0px auto;
+   
+
+   
+}
+header{
+    background: #2688DF;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+nav ul li{
+    border-bottom:1px solid white ;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 310px;
+    height: 120px;
+    padding: 0;
+    
+}
+.fcc-btn{
+    background-color: white;
+    color: black;
+    padding: 15px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+
+}
+h5{
+    text-align: left;
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+    
+}
+footer{
+    padding: 50px 0;
+    text-align: center;
+    font-size: 18px;
+    border-top: 2px solid black;
+}
